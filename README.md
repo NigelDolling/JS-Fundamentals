@@ -1,4 +1,5 @@
 **JS-Fundamentals**
+
 A collection of JavaScript files demonstrating fundamental concepts in programming.
 
 **Table of Contents**
